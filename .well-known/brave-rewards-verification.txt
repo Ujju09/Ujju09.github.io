@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ujju09.github.io
+Token: 602b8087c2b8555b1c57cdfdce29a89cf6fb8f22801f7f17aa294ec8c3ce62fc
